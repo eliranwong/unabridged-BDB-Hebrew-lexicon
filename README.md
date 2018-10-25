@@ -5,4 +5,4 @@ This is the file Eliran Wong formatted for use in his iOS app "BibleBento Plus" 
 
 License: public domain document
 
-Source: provided by Tim Morton, the developer of Bible Analyzer.  (used and distributed with permission)
+Source: provided by Tim Morton, the developer of Bible Analyzer
