@@ -5,6 +5,6 @@ This is the file Eliran Wong formatted for use in his iOS app "BibleBento Plus" 
 
 License: public domain document
 
-Source: provided by Tim Morton, the developer of Bible Analyzer
+Source: provided by Tim Morton, the developer of <a href='https://www.bibleanalyzer.com'>Bible Analyzer</a>
 
 Some of bible verse references are corrected by Eliran Wong
