@@ -15,3 +15,5 @@ Some of bible verse references are corrected by Eliran Wong
 This .csv file is created by revising the .json file, with supplementary data, provided by John Isett, <a href='https://BibleHub.com'>BibleHub.com</a>.
 
 This .csv file is formatted for use in bilbe online reader: <a href='https://marvel.bible'>https://marvel.bible</a>
+
+Tagging on bible references are worked out by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his associates.
