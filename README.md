@@ -18,3 +18,5 @@ This .csv file is formatted for use in bilbe online reader: <a href='https://mar
 <br>A link for testing: <a href='https://marvel.bible/tool.php?bdb=H90_H92_H7225'>https://marvel.bible/tool.php?bdb=H90_H92_H7225</a>
 
 Tagging on bible references are worked out by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his associates.
+
+Known issues: need to correct cross-references where <checkingNeeded/> or <wrongReferenceRemoved/> are located.
