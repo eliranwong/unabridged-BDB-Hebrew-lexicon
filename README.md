@@ -19,4 +19,4 @@ This .csv file is formatted for use in bilbe online reader: <a href='https://mar
 
 Tagging on bible references are worked out by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his associates.
 
-Known issues: need to correct cross-references where &lt;checkingNeeded/&rt; or &lt;wrongReferenceRemoved/&rt; are located.
+Known issues: need to correct cross-references where &lt;checkingNeeded/&gt; or &lt;wrongReferenceRemoved/&gt; are located.
