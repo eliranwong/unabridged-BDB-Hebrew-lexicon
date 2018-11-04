@@ -17,6 +17,6 @@ This .csv file was created by revising the .json file, with supplementary data p
 This .csv file was formatted by Eliran Wong for use in online bilbe reader: <a href='https://marvel.bible'>https://marvel.bible</a>
 <br>A link for testing: <a href='https://marvel.bible/tool.php?bdb=H90_H92_H7225'>https://marvel.bible/tool.php?bdb=H90_H92_H7225</a>
 
-Tagging on bible references were parsed by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his associates.
+Bible references were parsed by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his associates, with more than a hundred references corrected by Eliran Wong.
 
 Known issues: need to correct cross-references where &lt;checkingNeeded/&gt; or &lt;wrongReferenceRemoved/&gt; are located.
