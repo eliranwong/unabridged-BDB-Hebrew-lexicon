@@ -1,8 +1,12 @@
-# unabridged-BDB-Hebrew-lexicon
+# The Brown-Driver-Briggs Hebrew and English Lexicon
 
 License: public domain document
 
-<b>The Brown-Driver-Briggs Hebrew and English Lexicon in Json format</b>
+# Screenshot
+
+<img src="screenshot.png">
+
+# JSON format
 
 This is the file Eliran Wong formatted for use in his iOS app "BibleBento Plus" (<a href='https://itunes.apple.com/us/app/biblebento-plus/id1439743446?mt=8'>https://itunes.apple.com/us/app/biblebento-plus/id1439743446?mt=8</a>)
 
@@ -10,7 +14,7 @@ Source: provided by Tim Morton, the developer of <a href='https://www.bibleanaly
 
 Some of bible verse references are corrected by Eliran Wong
 
-<b>The Brown-Driver-Briggs Hebrew and English Lexicon in csv format</b>
+# CSV format
 
 This .csv file was created by revising the .json file, with supplementary data provided by John Isett, <a href='https://BibleHub.com'>BibleHub.com</a>.
 
