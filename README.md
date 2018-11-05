@@ -16,16 +16,17 @@ Some of bible verse references are corrected by Eliran Wong
 
 # CSV format
 
-This .csv file was created by revising the .json file, with supplementary data provided by John Isett, <a href='https://BibleHub.com'>BibleHub.com</a>.
-
-This .csv file was formatted by Eliran Wong for use in online bilbe reader: <a href='https://marvel.bible'>https://marvel.bible</a>
+- File: <a href='https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon/blob/master/unabridged-BDB-Hebrew-lexicon.csv.zip'>unabridged-BDB-Hebrew-lexicon.csv.zip</a>
+- <a href='https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon/blob/master/DictBDB.json'>Old .json file</a> was reviewed, by comparing with supplementary data provided by John Isett [<a href='https://BibleHub.com'>BibleHub.com</a>], and revised to produce this <a href='https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon/blob/master/unabridged-BDB-Hebrew-lexicon.csv.zip'>.csv file</a>.
+- This file maintains origianl sections of Hebrew and Aramaic entries.
+- This file maintains original orders of all entries.
+- This file contains Strong's number mapping, where applicable (2nd column)
+- This file was formatted by Eliran Wong for use in online bilbe reader: <a href='https://marvel.bible'>https://marvel.bible</a>
 <br>A link for testing: <a href='https://marvel.bible/tool.php?bdb=H90_H92_H7225'>https://marvel.bible/tool.php?bdb=H90_H92_H7225</a>
-
-Bible references were parsed by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his associates, with more than a hundred references corrected by Eliran Wong.
-
-Known issues: need to correct cross-references where &lt;checkingNeeded/&gt; or &lt;wrongReferenceRemoved/&gt; are located.
-
-Bible book abbreviations in all cross-references follow the standard of Society of Biblical Literature:<br>
+- css used for this BDB at  <a href='https://marvel.bible'>https://marvel.bible</a>: @font-face { font-family: 'Ezra SIL'; src: url('/sileot.ttf'); } bdbheb, bdbarc, heb{ font-family:'Ezra SIL'; font-size: 130%; } bdbheb, bdbarc { display: inline-block; direction: rtl; } div.section, div.point { display: block; border: 1px solid green; border-radius: 5px; padding: 2px 5px; margin-top: 5px; margin-bottom: 5px; } div.remarks { display: block; border: 1px solid gray; border-radius: 5px; padding: 2px 5px; margin-top: 5px; margin-bottom: 5px; }
+- This file contains original scripture references parsed by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his associates, with more than a hundred references corrected by Eliran Wong.
+- Known issues: pending corrections of cross-references, where &lt;checkingNeeded/&gt; or &lt;wrongReferenceRemoved/&gt; are located.
+- All scripture references use book abbreviations, according to the standard of Society of Biblical Literature:<br>
 1	Gen<br>
 2	Exod<br>
 3	Lev<br>
