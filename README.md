@@ -1,6 +1,6 @@
 # The Brown-Driver-Briggs Hebrew and English Lexicon
 
-License: Public domain document; Formatting developed by Eliran Wong
+License: Public domain document; formatting developed for use in https://marvel.bible by Eliran Wong.
 
 # Screenshot
 
