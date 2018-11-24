@@ -21,7 +21,7 @@ Some of bible verse references are corrected by Eliran Wong
 - This file maintains origianl sections of Hebrew and Aramaic entries.
 - This file maintains original orders of all entries.
 - This file contains Strong's number mapping, where applicable (2nd column)
-- This file was formatted by Eliran Wong for use in online bilbe reader: <a href='https://marvel.bible'>https://marvel.bible</a>
+- This file was formatted by Eliran Wong for use in <a href='https://marvel.bible'>https://marvel.bible</a>
 <br>A link for testing: <a href='https://marvel.bible/tool.php?bdb=H90_H92_H7225'>https://marvel.bible/tool.php?bdb=H90_H92_H7225</a>
 - css used for this BDB at  <a href='https://marvel.bible'>https://marvel.bible</a>: @font-face { font-family: 'Ezra SIL'; src: url('/sileot.ttf'); } bdbheb, bdbarc, heb{ font-family:'Ezra SIL'; font-size: 130%; } bdbheb, bdbarc { display: inline-block; direction: rtl; } div.section, div.point { display: block; border: 1px solid green; border-radius: 5px; padding: 2px 5px; margin-top: 5px; margin-bottom: 5px; } div.remarks { display: block; border: 1px solid gray; border-radius: 5px; padding: 2px 5px; margin-top: 5px; margin-bottom: 5px; } highlight { font-style: italic; } transliteration { color: gray; }
 - This file contains original scripture references parsed by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his associates, with more than a hundred references corrected by Eliran Wong.
